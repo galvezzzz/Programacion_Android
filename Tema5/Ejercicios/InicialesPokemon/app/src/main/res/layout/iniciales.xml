@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pokedex"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:columnCount="3"
+    android:rowCount="2">
+
+    <ImageView
+        android:id="@+id/inicial1"
+        android:layout_width="120dp"
+        android:layout_height="630dp"
+        android:layout_margin="5dp"
+        android:layout_column="0"
+        android:layout_row="0"
+        android:layout_columnWeight="1">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/inicial2"
+        android:layout_width="120dp"
+        android:layout_height="630dp"
+        android:layout_margin="5dp"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:layout_columnWeight="1">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/inicial3"
+        android:layout_width="120dp"
+        android:layout_height="630dp"
+        android:layout_margin="5dp"
+        android:layout_column="2"
+        android:layout_row="0"
+        android:layout_columnWeight="1">
+    </ImageView>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:layout_columnWeight="3"
+        android:src="@drawable/selecciona_un_pokemon"
+        android:layout_gravity="bottom">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/btnVolver"
+        android:layout_width="200dp"
+        android:layout_height="92dp"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:layout_columnWeight="3"
+        android:src="@drawable/volver"
+        android:layout_gravity="bottom">
+    </ImageView>
+
+
+
+
+</GridLayout>

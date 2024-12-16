@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c60f301-cfc9-4abf-8e54-9b093d03b14e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/conexion/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/conexion/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/datos/ClienteDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/datos/iClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/datos/iClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/presentacion/ZonaFitApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acceso a datos/Unidad3/ZonaFit/src/main/java/zona_fit/presentacion/ZonaFitApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Interfaces/Tema 1/Formulario3/.vs/Formulario3/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/FileContentIndex/1bfa2ee7-3272-490c-8bdb-4bab54799253.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/FileContentIndex/4675f784-3d47-4b5c-8fd2-a1a454be44b6.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/FileContentIndex/56e6edf9-70d5-45d1-bb64-893110f4c3f9.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/FileContentIndex/d25670e3-afe7-4129-9033-180a4fae4c9f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/FileContentIndex/f7de96e8-c00b-480a-9ab8-2b2e38456818.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/v17/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/.vs/InformesClase1/v17/ResourceExplorer/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/.vs/InformesClase1.csproj.dtbcache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/EmpleadosDataSet.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/EmpleadosDataSet.xsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/EmpleadosDataSet.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/EmpleadosDataSet.xss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Form1.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/InformesClase1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/Report1.rdlc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/Loader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/readme.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/x64/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/x64/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/x86/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/SqlServerTypes/x86/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/EnvDTE.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/InformesClase1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/InformesClase1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/InformesClase1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.ReportViewer.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.ReportViewer.DataVisualization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.ReportViewer.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.ReportViewer.ProcessingObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.ReportViewer.WinForms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Microsoft.SqlServer.Types.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/Npgsql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/SqlServerTypes/x64/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/SqlServerTypes/x64/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/SqlServerTypes/x86/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/SqlServerTypes/x86/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Text.Encodings.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Text.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/de/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/de/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/de/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/de/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/es/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/es/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/es/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/es/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/fr/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/fr/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/fr/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/fr/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/it/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/it/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/it/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/it/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ja/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ja/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ja/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ja/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ko/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ko/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ko/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ko/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/pt/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/pt/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/pt/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/pt/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ru/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ru/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ru/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/ru/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHS/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHS/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHT/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHT/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/bin/Debug/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/Informes.C0CDE8E3.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.csproj.SuggestedBindingRedirects.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/InformesClase1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/obj/Debug/TempPE/EmpleadosDataSet.Designer.cs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/InformesClase1/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.DataVisualization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.ProcessingObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.WinForms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/de/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/de/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/de/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/de/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/es/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/es/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/es/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/es/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/fr/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/fr/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/fr/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/fr/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/it/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/it/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/it/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/it/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ja/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ja/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ja/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ja/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ko/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ko/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ko/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ko/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/pt/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/pt/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/pt/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/pt/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ru/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ru/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ru/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/ru/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHS/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHS/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHT/Microsoft.ReportViewer.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHT/Microsoft.ReportViewer.Design.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/lib/net40/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/license/License_ReportViewer.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0/license/ThirdPartyNotices_ReportViewer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/Microsoft.SqlServer.Types.14.0.314.76.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/content/SqlServerTypes/Loader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/content/SqlServerTypes/readme.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/lib/net40/Microsoft.SqlServer.Types.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/license/license_SysClrTypes.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/nativeBinaries/x64/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/nativeBinaries/x64/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/nativeBinaries/x86/SqlServerSpatial140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/nativeBinaries/x86/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interfaces/Tema 3/InformesClase1/packages/Microsoft.SqlServer.Types.14.0.314.76/tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor/src/clienteservidor/ClienteServidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor/src/clienteservidor/ClienteServidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/build/classes/clienteservidor2/ClienteServidor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/build/classes/clienteservidor2/ClienteServidor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/src/clienteservidor2/ClienteServidor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PSP/Tema3/CS/ClienteServidor2/src/clienteservidor2/ClienteServidor2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pTY6i8TISzVFUmKbcsRdXJdxKo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Alberto/Desktop/2DAM/PM/Tema5/Explicaciones/AdaptadorPersonalizado"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c60f301-cfc9-4abf-8e54-9b093d03b14e" name="Changes" comment="" />
+      <created>1732791358400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732791358400</updated>
+    </task>
+    <servers />
+  </component>
+</project>

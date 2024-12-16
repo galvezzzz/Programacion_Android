@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Intenciones"
+        android:textStyle="bold"
+        android:textSize="10pt"
+        android:layout_gravity="center">
+    </TextView>
+
+
+    <Button
+        android:onClick="mandar_mensaje"
+        android:id="@+id/btnMensaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="MANDAR MENSAJE">
+    </Button>
+
+    <Button
+        android:onClick="abrirPagina"
+        android:id="@+id/btnWeb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ABRIR PÁGINA WEB">
+    </Button>
+
+    <Button
+        android:onClick="llamarTelefono"
+        android:id="@+id/btnLlamar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="LLAMAR POR TELÉFONO">
+    </Button>
+
+    <Button
+        android:onClick="verMapa"
+        android:id="@+id/btnMapa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ABRIR MAPA">
+    </Button>
+
+    <Button
+        android:onClick="tomarFoto"
+        android:id="@+id/btnFoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="TOMAR FOTO">
+    </Button>
+
+    <Button
+        android:onClick="mandarCorreo"
+        android:id="@+id/btnCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="MANDAR CORREO">
+    </Button>
+
+    <Button
+        android:onClick="streetView"
+        android:id="@+id/btnStreetView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="STREET VIEW">
+    </Button>
+
+</LinearLayout>
