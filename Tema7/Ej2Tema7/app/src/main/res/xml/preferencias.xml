@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Categoría 1">
+        <CheckBoxPreference
+            android:key="checkbox"
+            android:title="ÚNICO SISTEMA OPERATIVO"
+            android:summary="Marca si tienes preferencia por un solo SO">
+        </CheckBoxPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Categoría 2">
+        <ListPreference
+            android:key="radio"
+            android:title="Preferencia 3"
+            android:summary="Descripción de la preferencia"
+            android:dialogTitle="IndicarPais"
+            android:entries="@array/radio" />
+
+        <EditTextPreference
+            android:key="edit"
+            android:title="VERSIÓN DEL SISTEMA"
+            android:summary="Pulsa para introducir la versión del sistema"
+            android:dialogTitle="INTRODUCE VERSIÓN"/>
+    </PreferenceCategory>
+</PreferenceScreen>
