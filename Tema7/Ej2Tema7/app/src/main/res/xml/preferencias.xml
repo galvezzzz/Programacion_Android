@@ -10,11 +10,12 @@
 
     <PreferenceCategory android:title="Categoría 2">
         <ListPreference
-            android:key="radio"
-            android:title="Preferencia 3"
-            android:summary="Descripción de la preferencia"
+            android:key="opcion3"
+            android:title="SISTEMA OPERATIVO"
+            android:summary="Pulsa para elegir Sistema Operativo"
             android:dialogTitle="IndicarPais"
-            android:entries="@array/radio" />
+            android:entries="@array/radio"
+            android:entryValues="@array/codigoRadio"/>
 
         <EditTextPreference
             android:key="edit"
