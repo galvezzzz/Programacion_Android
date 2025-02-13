@@ -10,7 +10,7 @@
 
     <PreferenceCategory android:title="Categoría 2">
         <ListPreference
-            android:key="opcion3"
+            android:key="version"
             android:title="SISTEMA OPERATIVO"
             android:summary="Pulsa para elegir Sistema Operativo"
             android:dialogTitle="IndicarPais"

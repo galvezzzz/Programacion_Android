@@ -39,9 +39,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 SharedPreferences pref =
                 PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
-                Log.i("","Opción 1: " + pref.getBoolean("opcion1",false));
-                Log.i("","Opción 2: " + pref.getString("opcion2",""));
-                Log.i("", "Opción 3:" + pref.getString("opcion3",""));
+                Log.i("","SO único: " + pref.getBoolean("checkbox",false));
+                Log.i("","SO: " + pref.getString("e",""));
+                Log.i("", "Versión:" + pref.getString("version",""));
 
             }
         });
