@@ -19,8 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // En el ejemplo llamamos a la ventana de preferencias desd un botón
-        final Button preferencias =
-                findViewById(R.id.btnPreferencias);
+        final Button preferencias = findViewById(R.id.btnPreferencias);
         preferencias.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
