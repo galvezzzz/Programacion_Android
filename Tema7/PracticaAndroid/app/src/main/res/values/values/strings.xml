@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamenTema7Parte2</string>
+    <string name="imagen_avatar">Imagen Avatar</string>
+    <string name="buscar_contacto">Buscar Contacto</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_contacto">Nombre Contacto</string>
+    <string name="avatar">Avatar:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="telefono_contacto">Telefono Contacto</string>
+    <string name="a_adir">Añadir</string>
+    <string name="modificar">Modificar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="borrar">Borrar</string>
+</resources>

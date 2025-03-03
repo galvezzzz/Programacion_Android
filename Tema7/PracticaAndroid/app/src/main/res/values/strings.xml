@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaAndroid</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="telefono">Teléfono</string>
+    <string name="avatar">Avatar</string>
+    <string name="anyadir">Añadir</string>
+    <string name="modificar">Modificar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre</string>
+    <string name="buscar_contactos">Buscar contactos</string>
+</resources>
