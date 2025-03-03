@@ -11,8 +11,5 @@ public class Datos {
     public int getImagen() {
         return imagen;
     }
-
-    public void setImagen(int imagen) {
-        this.imagen = imagen;
-    }
+    
 }

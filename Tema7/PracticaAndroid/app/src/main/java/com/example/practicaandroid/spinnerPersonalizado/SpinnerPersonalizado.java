@@ -28,7 +28,7 @@ public class SpinnerPersonalizado extends ArrayAdapter<Datos> {
             convertView =
                     LayoutInflater.from(getContext()).inflate(R.layout.imagen_spinner,parent,false);
         }
-        ImageView icono = convertView.findViewById(R.id.imagen);
+        ImageView icono = convertView.findViewById(R.id.avatarSpinner);
         Datos elemento = getItem(position);
         if (elemento!=null){
             icono.setImageResource(elemento.getImagen());
@@ -42,7 +42,7 @@ public class SpinnerPersonalizado extends ArrayAdapter<Datos> {
         if (convertView==null){
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.imagen_spinner,parent,false);
         }
-        ImageView icono = convertView.findViewById(R.id.imagen);
+        ImageView icono = convertView.findViewById(R.id.avatarSpinner);
         Datos elemento = getItem(position);
         if (elemento!=null){
             icono.setImageResource(elemento.getImagen());

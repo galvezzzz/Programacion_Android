@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.layout_principal);
+        setContentView(R.layout.activity_main);
 
         Contactos contactosBBDD = new Contactos(this, "Contactos", null, 1);
         SQLiteDatabase database = contactosBBDD.getWritableDatabase();
@@ -69,6 +69,8 @@ public class MainActivity extends AppCompatActivity {
         registerForContextMenu(listViewAvatar);
 
         spinner = findViewById(R.id.spinner);
+
+        // Iniciar spinner
         Datos[] datosSpinners = new Datos[] {
                 new Datos(R.drawable.batman),
                 new Datos(R.drawable.capi),
@@ -82,9 +84,9 @@ public class MainActivity extends AppCompatActivity {
                 new Datos(R.drawable.wonderwoman),
         };
 
-        iniciarLista();
-        SpinnerPersonalizado miAdaptador = new SpinnerPersonalizado(this,datosSpinners);
-        spinner.setAdapter(miAdaptador);
+        iniciarListView();
+        SpinnerPersonalizado adaptador = new SpinnerPersonalizado(this,datosSpinners);
+        spinner.setAdapter(adaptador);
 
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
@@ -117,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
                 ContentResolver contentResolver = getContentResolver();
                 contentResolver.insert(ContentProvider.CONTENT_URI, values);
                 resetEditText();
-                iniciarLista();
+                iniciarListView();
                 ocultarElementos();
             }
         });
@@ -140,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
                 ContentResolver contentResolver = getContentResolver();
                 contentResolver.update(ContentProvider.CONTENT_URI,values, ContentProvider.Contactos._ID + "=" + contactoPos, null);
                 resetEditText();
-                iniciarLista();
+                iniciarListView();
                 ocultarElementos();
             }
         });
@@ -148,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
         listViewAvatar.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                contactoPos = adaptador.getItem(position).getIndice();
+                contactoPos = MainActivity.this.adaptador.getItem(position).getIndice();
             }
         });
     }
@@ -167,19 +169,22 @@ public class MainActivity extends AppCompatActivity {
         com.example.practicaandroid.adaptador.Datos contacto = adaptador.getItem(position);
         contactoPos = contacto.getIndice();
 
-        if(item.getItemId() == R.id.borrarItem) {
-            ContentResolver cr = getContentResolver();
-            cr.delete(ContentProvider.CONTENT_URI, ContentProvider.Contactos._ID + "=" + contactoPos, null);
-            iniciarLista();
+        if(item.getItemId() == R.id.menuBorrar) {
+            ContentResolver contentResolver = getContentResolver();
+            contentResolver.delete(ContentProvider.CONTENT_URI, ContentProvider.Contactos._ID + "=" + contactoPos, null);
+            iniciarListView();
             return true;
-        }else if (item.getItemId() == R.id.actualizarItem) {
+
+        }else if (item.getItemId() == R.id.menuActualizar) {
             editNombre.setText(contacto.getNombre());
             int posicionAvatar = posicionAvatar(contacto.getAvatar());
+
             spinner.setSelection(posicionAvatar);
             editTelefono.setText(contacto.getTelefono());
 
             mostrarElementos();
-            iniciarLista();
+            iniciarListView();
+
             return true;
         }
         return super.onContextItemSelected(item);
@@ -225,35 +230,36 @@ public class MainActivity extends AppCompatActivity {
         return 0;
     }
 
-    private void iniciarLista() {
-        String[] columnas = new String[]{
+    private void iniciarListView() {
+        String[] campos = new String[]{
                 ContentProvider.Contactos._ID,
                 ContentProvider.Contactos.NOMBRE,
                 ContentProvider.Contactos.TELEFONO,
                 ContentProvider.Contactos.AVATAR,
         };
-        Uri versionesUri = ContentProvider.CONTENT_URI;
-        ContentResolver cr = getContentResolver();
-        Cursor cur = cr.query(versionesUri, columnas, null,null,null);
-        com.example.practicaandroid.adaptador.Datos objetoDato;
 
-        ArrayList<com.example.practicaandroid.adaptador.Datos> datos = new ArrayList<com.example.practicaandroid.adaptador.Datos>();
+        Uri versionesUri = ContentProvider.CONTENT_URI;
+        ContentResolver contentResolver = getContentResolver();
+        Cursor cursor = contentResolver.query(versionesUri, campos, null,null,null);
+        com.example.practicaandroid.adaptador.Datos importDatos;
+
+        ArrayList<com.example.practicaandroid.adaptador.Datos> datos = new ArrayList<>();
         adaptador = new Adaptador(this,datos);
-        if (cur != null) {
-            if (cur.moveToFirst()) {
-                int colId = cur.getColumnIndex(ContentProvider.Contactos._ID);
-                int colNom = cur.getColumnIndex(ContentProvider.Contactos.NOMBRE);
-                int colTel = cur.getColumnIndex(ContentProvider.Contactos.TELEFONO);
-                int colPer =cur.getColumnIndex(ContentProvider.Contactos.AVATAR);
+        if (cursor != null) {
+            if (cursor.moveToFirst()) {
+                int campoId = cursor.getColumnIndex(ContentProvider.Contactos._ID);
+                int campoNombre = cursor.getColumnIndex(ContentProvider.Contactos.NOMBRE);
+                int campoTelefono = cursor.getColumnIndex(ContentProvider.Contactos.TELEFONO);
+                int campoAvatar =cursor.getColumnIndex(ContentProvider.Contactos.AVATAR);
 
                 do {
-                    int id = cur.getInt(colId);
-                    String nombre = cur.getString(colNom);
-                    String telefono=cur.getString(colTel);
-                    int avatar = cur.getInt(colPer);
-                    objetoDato = new com.example.practicaandroid.adaptador.Datos(id, nombre,telefono,avatar);
-                    datos.add(objetoDato);
-                } while (cur.moveToNext());
+                    int id = cursor.getInt(campoId);
+                    String nombre = cursor.getString(campoNombre);
+                    String telefono=cursor.getString(campoTelefono);
+                    int avatar = cursor.getInt(campoAvatar);
+                    importDatos = new com.example.practicaandroid.adaptador.Datos(id,nombre,telefono,avatar);
+                    datos.add(importDatos);
+                } while (cursor.moveToNext());
             }
         }
         listViewAvatar.setAdapter(adaptador);
